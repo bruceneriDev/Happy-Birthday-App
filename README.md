@@ -1,6 +1,6 @@
 # Happy Birthday App 🎉
 
-This is an interactive Android app built with **Jetpack Compose** that displays a birthday greeting. Users can trigger confetti animations by clicking on a cake image or by shaking their device! It was initially created based on concepts from the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) course by Google and has been extended with more interactive features.
+This is an interactive Android app built with **Jetpack Compose** that displays a birthday greeting. Users can trigger confetti animations by clicking on a cake image or by shaking their device! It wa[...]
 
 ## Features
 
@@ -28,8 +28,9 @@ This is an interactive Android app built with **Jetpack Compose** that displays 
 To run this project:
 
 1.  **Clone the repository:**
-   ```bash
-   git clone https://github.com/bruceneriDev/HappyBirthdayApp.git
+    ```bash
+    git clone https://github.com/bruceneriDev/HappyBirthdayApp.git
+    ```
 2.  **Open with Android Studio** and run on an emulator or physical device.
 
 ## App in Action
