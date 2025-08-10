@@ -2,7 +2,7 @@
 
 This is an interactive Android app built with **Jetpack Compose** that displays a birthday greeting. Users can trigger confetti animations by clicking on a cake image or by shaking their device! It was initially created based on concepts from the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) course by Google and has been extended with more interactive features.
 
-## 📱 Features
+## Features
 
 -   **Jetpack Compose UI:** Modern UI built entirely with Jetpack Compose.
 -   **Interactive Confetti:**
@@ -12,7 +12,7 @@ This is an interactive Android app built with **Jetpack Compose** that displays 
 -   **Image Background:** Features an attractive background image.
 -   **Sensor Integration:** Utilizes the device's accelerometer for shake detection.
 
-## ✨ Tech Stack / Key Components
+## Tech Stack / Key Components
 
 -   **Kotlin:** Primary programming language.
 -   **Jetpack Compose:** For building the declarative UI.
@@ -23,10 +23,15 @@ This is an interactive Android app built with **Jetpack Compose** that displays 
 -   **Android Sensors:** `SensorManager` and `SensorEventListener` for accelerometer-based shake detection.
 -   **Lifecycle Awareness:** Correctly managing sensor listeners according to the composable's lifecycle.
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project:
 
 1.  **Clone the repository:**
    ```bash
    git clone https://github.com/bruceneriDev/HappyBirthdayApp.git
+
+## App in Action
+
+![Happy-Birthday-App](https://github.com/user-attachments/assets/9160cffb-bdf3-4eba-b219-0fce3b842d99)
+![Happy-Birthday-App-2](https://github.com/user-attachments/assets/08ecdfcb-d7e2-4ee7-92d1-7114b383917a)
