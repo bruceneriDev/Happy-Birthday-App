@@ -30,8 +30,11 @@ To run this project:
 1.  **Clone the repository:**
    ```bash
    git clone https://github.com/bruceneriDev/HappyBirthdayApp.git
+2.  **Open with Android Studio** and run on an emulator or physical device.
 
 ## App in Action
 
-![Happy-Birthday-App](https://github.com/user-attachments/assets/9160cffb-bdf3-4eba-b219-0fce3b842d99)
-![Happy-Birthday-App-2](https://github.com/user-attachments/assets/08ecdfcb-d7e2-4ee7-92d1-7114b383917a)
+| ![Screenshot 1](https://github.com/user-attachments/assets/9160cffb-bdf3-4eba-b219-0fce3b842d99) | ![Screenshot 2](https://github.com/user-attachments/assets/08ecdfcb-d7e2-4ee7-92d1-7114b383917a) |
+|:-----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
+| Birthday greeting with cake                                                                      | Confetti animation triggered                                                                     |
+
